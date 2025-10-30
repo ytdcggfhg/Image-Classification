@@ -1,5 +1,3 @@
-<div align="center">
-
 # Image classification
 
 ## Navigation
@@ -7,7 +5,8 @@
 - **[噪声标签](#噪声标签)**
   <br>&nbsp;&nbsp;&nbsp; [2021](#2021) | [2022](#2022) | [2023](#2023) | [2024](#2024) | [2025](#2025)
 - **[噪声标签下的具体任务](#噪声标签下的具体任务)**
-  <br>&nbsp;&nbsp;&nbsp;&nbsp;[FGVC](#FGVC) | [low quality](#low quality) | [domain adaption](#domain adaption) 
+  <br>&nbsp;&nbsp;&nbsp;&nbsp;    [FGVC](#fgvc) | [low quality](#low-quality) | [domain adaption](#domain-adaption)
+
 
 
 ## 噪声标签
