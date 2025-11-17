@@ -1,5 +1,18 @@
 # Image Classification
 
+### Navigation
+
+1. **Image Classification**
+   * [1. Image Classification with Noisy Label](#1-image-classification-with-noisy-label)
+   * [2. Unsupervised Domain Adaptation (UDA)](#2-unsupervised-domain-adaptation-uda)
+   * [3. Source-Free UDA (SF-UDA)](#3-source-free-uda-sf-uda)
+   * [4. Low-Quality Image Classification](#4-low-quality-image-classification)
+2. **Fine-Grained Image Classification**
+   * [1. Fine-Grained + Noisy Label](#fg-1-fine-grained-image-classification-with-noisy-label)
+   * [2. UDA for Fine-Grained](#fg-2-uda-for-fine-grained-image-classification)
+   * [3. SF-UDA for Fine-Grained](#fg-3-sf-uda-for-fine-grained-image-classification)
+   * [4. Low-Quality Fine-Grained](#fg-4-low-quality-fine-grained-image-classification)
+
 ## 1. Image Classification with Noisy Label
 
 ### 2025
